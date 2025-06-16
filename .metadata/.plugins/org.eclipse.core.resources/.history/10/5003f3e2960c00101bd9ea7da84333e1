@@ -1,0 +1,21 @@
+package com.example.JobApp.repo;
+
+
+import com.example.JobApp.model.JobPost;
+
+
+@Repository
+public interface JobRepo extends JpaRepository<JobPost, Integer> {
+
+	
+
+	
+	
+	
+
+	
+
+	
+
+
+}
